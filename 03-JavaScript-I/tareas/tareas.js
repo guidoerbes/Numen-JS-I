@@ -85,7 +85,7 @@ function menosQueNoventa(num) {
   if ("num" < 90){
     return true
   } return false 
-}
+}                            para probar si anda git vamos a ver
 
 function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
